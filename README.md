@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
--	[`0.1.5-beta`, `latest` (*0.1/Dockerfile*)](https://github.com/nexocrew/docker_3nigm4_3n4cli/0.1/Dockerfile)
+-	[`0.1.6-beta`, `latest` (*0.1/Dockerfile*)](https://github.com/nexocrew/docker_3nigm4_3n4cli/0.1/Dockerfile)
 
 # What is 3n4 cli client?
 Official 3nigm4 command line application to access all 3nigm4 services. Now implements authentication and secure storage.
